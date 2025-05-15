@@ -13,7 +13,7 @@ This is a Django-based web application designed to manage student records, atten
 * CSV Upload for bulk student, teacher, and marks management
 * Role-based Authentication for Admin, Teacher, and Student
  ---
- 🛠️ Tech Stack
+
  ---🛠️ Tech Stack
 * Backend: Django 5.1.6, Celery
 * Database: MySQL
@@ -21,6 +21,7 @@ This is a Django-based web application designed to manage student records, atten
 * Queue: Redis
 * Other: SSL support for local testing, logging, environment separation
  ---
+ 
  🚀 How to Run Locally
 1. Clone the repo:
 ---
